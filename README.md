@@ -1,1 +1,1 @@
-# Kernel-PAC-LDA
+# Kernel-PCA-LDA
